@@ -1,0 +1,17 @@
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\nunit.engine.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\nunit.engine.api.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\ConvertDollarService.UnitTests.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\ConvertDollarService.UnitTests.pdb
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\ConvertDollarService.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\nunit.framework.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\ConvertDollarService.pdb
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\ConvertDollarService.dll.config
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\nunit.framework.pdb
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\bin\Debug\nunit.framework.xml
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\obj\Debug\ConvertDollarService.UnitTests.csprojAssemblyReference.cache
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\obj\Debug\ConvertDollarService.UnitTests.csproj.CoreCompileInputs.cache
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\obj\Debug\ConvertDollarService.UnitTests.csproj.CopyComplete
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\obj\Debug\ConvertDollarService.UnitTests.dll
+C:\E Driver\Luke Projects\20190731 Web service\ConvertDollarService\ConvertDollarService.UnitTests\obj\Debug\ConvertDollarService.UnitTests.pdb
